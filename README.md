@@ -1,7 +1,7 @@
 artchitect-eventbus
 ===================
 
-Event bus plugin plugin for 
+Event bus plugin for 
 [architect](https://github.com/c9/architect)
 
 ## Configuration
