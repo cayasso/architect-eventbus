@@ -16,10 +16,6 @@ module.exports = function setup(options, imports, register) {
      */
 
     register(null, {
-        eventbus: {
-            on: bus.on,
-            emit: bus.emit,
-            off: bus.removeListener
-        }
+        eventbus: bus
     });
 };
