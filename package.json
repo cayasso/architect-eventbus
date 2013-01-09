@@ -1,0 +1,21 @@
+{
+  "name": "architect-eventbus",
+  "description": "Event bus for architect",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "name": "Jonathan Brumley",
+    "email": "cayasso@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cayasso/architect-eventbus.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~0.7.0"
+  },
+  "plugin": {
+    "provides": ["eventbus"]
+  }
+}
